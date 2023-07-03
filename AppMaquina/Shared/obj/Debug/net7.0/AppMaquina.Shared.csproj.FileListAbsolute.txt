@@ -1,0 +1,12 @@
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\bin\Debug\net7.0\AppMaquina.Shared.deps.json
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\bin\Debug\net7.0\AppMaquina.Shared.dll
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\bin\Debug\net7.0\AppMaquina.Shared.pdb
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\obj\Debug\net7.0\AppMaquina.Shared.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\obj\Debug\net7.0\AppMaquina.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\obj\Debug\net7.0\AppMaquina.Shared.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\obj\Debug\net7.0\AppMaquina.Shared.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\obj\Debug\net7.0\AppMaquina.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\obj\Debug\net7.0\AppMaquina.Shared.dll
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\obj\Debug\net7.0\refint\AppMaquina.Shared.dll
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\obj\Debug\net7.0\AppMaquina.Shared.pdb
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquina\Shared\obj\Debug\net7.0\ref\AppMaquina.Shared.dll

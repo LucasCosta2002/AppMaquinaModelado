@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\bin\Debug\net7.0\AppMaquinaBD.deps.json
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\bin\Debug\net7.0\AppMaquinaBD.runtimeconfig.json
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\bin\Debug\net7.0\AppMaquinaBD.dll
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\bin\Debug\net7.0\AppMaquinaBD.pdb
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\obj\Debug\net7.0\AppMaquinaBD.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\obj\Debug\net7.0\AppMaquinaBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\obj\Debug\net7.0\AppMaquinaBD.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\obj\Debug\net7.0\AppMaquinaBD.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\obj\Debug\net7.0\AppMaquinaBD.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\obj\Debug\net7.0\AppMaquinaBD.dll
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\obj\Debug\net7.0\refint\AppMaquinaBD.dll
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\obj\Debug\net7.0\AppMaquinaBD.pdb
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\obj\Debug\net7.0\AppMaquinaBD.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Colegio\Segundo año\Modelado\AppMaquina\AppMaquinaBD\obj\Debug\net7.0\ref\AppMaquinaBD.dll
